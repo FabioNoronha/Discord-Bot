@@ -1,0 +1,38 @@
+[
+  {
+    "GreetingTurned": true,
+    "GoodbyeTurned": true,
+    "ServerID": 643187183951282197,
+    "GreetingMessage": "Welcome to our server {user}! Hope you enjoy your stay here and don't forget to check out <#671070098051825677> and <#656574154652516352>",
+    "GreetingChannelID": 643187184480026666,
+    "GoodbyeMessage": "<#643187184480026666> {user} has left! {user} is gone!!",
+    "GoodbyeChannelID": 656574154652516352
+  },
+  {
+    "GreetingTurned": true,
+    "GoodbyeTurned": true,
+    "ServerID": 645384141826686996,
+    "GreetingMessage": "welcome {user}",
+    "GreetingChannelID": 645652863107989516,
+    "GoodbyeMessage": "{user} left idiot.",
+    "GoodbyeChannelID": 645652863107989516
+  },
+  {
+    "GreetingTurned": false,
+    "GoodbyeTurned": false,
+    "ServerID": 473101269901508622,
+    "GreetingMessage": "",
+    "GreetingChannelID": 478560269140754432,
+    "GoodbyeMessage": "",
+    "GoodbyeChannelID": 478560269140754432
+  },
+  {
+    "GreetingTurned": false,
+    "GoodbyeTurned": false,
+    "ServerID": 748564461547290636,
+    "GreetingMessage": "",
+    "GreetingChannelID": 748564607270125612,
+    "GoodbyeMessage": "",
+    "GoodbyeChannelID": 748564607270125612
+  }
+]
